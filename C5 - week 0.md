@@ -1,0 +1,52 @@
+# Week 1
+
+## Topics: Introductions
+- **Week Dates:** January 6, 2025 - January 10, 2025
+- **Units:** 
+    - Unit 0 - Overview of C5
+    - Unit 1 - Introduction to AI & Data Science
+- **Link to content:**
+    - Unit 0:
+        - [Introduction](https://docs.google.com/presentation/d/1R7HA_dzpwKcHozsOTM1vjU6Z3J4LycrK/edit#slide=id.g2d5b2b5e3c8_0_0)
+        - [Python Basics](https://colab.research.google.com/drive/1bxj7zdJKNERq0pMBicQpyXK_HlCc5CK_)
+    - Unit 1:
+        - [Introduction to AI & Data Science](https://docs.google.com/presentation/d/1nMkPlKGX7c2DJWsqy2pP54852hhvljN7/edit#slide=id.g321e7708c67_1_83)
+
+---
+## Resources
+- [google colab environment](Unit-0/colab_requirements.txt)
+    - libraries with exact versions that the Tech Lead will be using
+- [latest environment](Unit-0\requirements.txt)
+    - latest library versions available
+- Python 3.10.11 system installation files (*Python version used by google colab*):
+    - [Python 3.10.11 Windows Installation](Unit-0\python-3.10.11-amd64.exe)
+    - [Python 3.10.11 MacOS Installation](Unit-0\python-3.10.11-macos11.pkg)
+    - [Python 3.10.11 Source Code](Unit-0\Python-3.10.11.tgz)
+        - for linux-based systems
+- Python 3.13.1 installation files (*latest python version available*)
+    - [Python 3.13.1 Windows Installation](Unit-0\python-3.13.1-amd64.exe)
+    - [Python 3.13.1 MacOS Installation](Unit-0\python-3.13.1-macos11.pkg)
+    - [Python 3.13.1 Source Code](Unit-0\Python-3.13.1.tgz)
+        - for linux-based systems
+
+## Environment setup
+1. clone repository
+    ```
+    git clone https://github.com/CODE-CRUNCH-CLUB/C5-CRUNCH-AI-DATA-SCIENCE.git
+
+    cd C5-CRUNCH-AI-DATA-SCIENCE  
+    ```
+2. ensure the python version you intend to use is installed
+    - if you intend to use 3.10.11 then download and run the proper python installation file
+
+3. set up environment
+    - for an environment similar to google colab:
+        ```
+        pip install -r Unit-0\colab_requirements.txt
+        ```
+    - for a modern environment:
+        ```
+        pip install -r requirements.txt
+        ```
+
+
