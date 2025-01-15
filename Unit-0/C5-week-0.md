@@ -23,6 +23,7 @@
     - [Python 3.13.1 MacOS Installation](python-3.13.1-macos11.pkg)
     - [Python 3.13.1 Source Code](Python-3.13.1.tgz)
         - for linux-based systems
+- [Project Dataset](spotify.csv)
 
 ## Environment setup
 1. clone repository
