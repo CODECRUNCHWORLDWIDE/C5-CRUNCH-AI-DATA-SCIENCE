@@ -6,7 +6,7 @@
     - Unit 0 - Overview of C5
 - **Link to content:**
     - [Introduction](https://docs.google.com/presentation/d/1R7HA_dzpwKcHozsOTM1vjU6Z3J4LycrK/edit#slide=id.g2d5b2b5e3c8_0_0)
-    - [Python Basics](https://colab.research.google.com/drive/1bxj7zdJKNERq0pMBicQpyXK_HlCc5CK_)
+    - [Python Basics](https://colab.research.google.com/drive/1TrlYJlafbu6hoNtxWyqmiWqCQ1GVu6PO)
 
 ## Resources
 - [google colab environment](colab_requirements.txt)
