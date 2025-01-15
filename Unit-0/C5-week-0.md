@@ -1,18 +1,13 @@
-# Week 1
+# Week 0
 
 ## Topics: Introductions
 - **Week Dates:** January 6, 2025 - January 10, 2025
 - **Units:** 
     - Unit 0 - Overview of C5
-    - Unit 1 - Introduction to AI & Data Science
 - **Link to content:**
-    - Unit 0:
-        - [Introduction](https://docs.google.com/presentation/d/1R7HA_dzpwKcHozsOTM1vjU6Z3J4LycrK/edit#slide=id.g2d5b2b5e3c8_0_0)
-        - [Python Basics](https://colab.research.google.com/drive/1bxj7zdJKNERq0pMBicQpyXK_HlCc5CK_)
-    - Unit 1:
-        - [Introduction to AI & Data Science](https://docs.google.com/presentation/d/1nMkPlKGX7c2DJWsqy2pP54852hhvljN7/edit#slide=id.g321e7708c67_1_83)
+    - [Introduction](https://docs.google.com/presentation/d/1R7HA_dzpwKcHozsOTM1vjU6Z3J4LycrK/edit#slide=id.g2d5b2b5e3c8_0_0)
+    - [Python Basics](https://colab.research.google.com/drive/1bxj7zdJKNERq0pMBicQpyXK_HlCc5CK_)
 
----
 ## Resources
 - [google colab environment](Unit-0/colab_requirements.txt)
     - libraries with exact versions that the Tech Lead will be using
@@ -48,5 +43,4 @@
         ```
         pip install -r requirements.txt
         ```
-
-
+---
