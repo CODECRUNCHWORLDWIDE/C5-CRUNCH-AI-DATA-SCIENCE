@@ -9,19 +9,19 @@
     - [Python Basics](https://colab.research.google.com/drive/1bxj7zdJKNERq0pMBicQpyXK_HlCc5CK_)
 
 ## Resources
-- [google colab environment](Unit-0/colab_requirements.txt)
+- [google colab environment](colab_requirements.txt)
     - libraries with exact versions that the Tech Lead will be using
-- [latest environment](Unit-0\requirements.txt)
+- [latest environment](requirements.txt)
     - latest library versions available
 - Python 3.10.11 system installation files (*Python version used by google colab*):
-    - [Python 3.10.11 Windows Installation](Unit-0\python-3.10.11-amd64.exe)
-    - [Python 3.10.11 MacOS Installation](Unit-0\python-3.10.11-macos11.pkg)
-    - [Python 3.10.11 Source Code](Unit-0\Python-3.10.11.tgz)
+    - [Python 3.10.11 Windows Installation](python-3.10.11-amd64.exe)
+    - [Python 3.10.11 MacOS Installation](python-3.10.11-macos11.pkg)
+    - [Python 3.10.11 Source Code](Python-3.10.11.tgz)
         - for linux-based systems
 - Python 3.13.1 installation files (*latest python version available*)
-    - [Python 3.13.1 Windows Installation](Unit-0\python-3.13.1-amd64.exe)
-    - [Python 3.13.1 MacOS Installation](Unit-0\python-3.13.1-macos11.pkg)
-    - [Python 3.13.1 Source Code](Unit-0\Python-3.13.1.tgz)
+    - [Python 3.13.1 Windows Installation](python-3.13.1-amd64.exe)
+    - [Python 3.13.1 MacOS Installation](python-3.13.1-macos11.pkg)
+    - [Python 3.13.1 Source Code](Python-3.13.1.tgz)
         - for linux-based systems
 
 ## Environment setup
