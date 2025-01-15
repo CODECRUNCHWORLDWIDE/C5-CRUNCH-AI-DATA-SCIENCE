@@ -5,10 +5,10 @@ Welcome to the AI and Data Science Workshop Series repository! 🎓
 This repository is dedicated to supporting learners and professionals in their journey through the exciting fields of Artificial Intelligence (AI) and Data Science. Whether you're a beginner taking your first steps in machine learning or an experienced data scientist exploring advanced AI topics, this workshop series is designed to provide you with valuable insights, hands-on experience, and practical tools.
 
 ## 📂 Table of Contents
-- [Unit 0 - Introduction](Unit-0\C5-week-0.md)
-- [Unit 1 - Introduction to AI & Data Science](Unit-1\C5-week-1.md)
-- [Unit 2 - Introduction to Data Mining](Unit-2\C5-week-2.md)
-- [Unit 3 - Introduction to Modeling](Unit-3\C5-week-3.md)
+- [Unit 0 - Introduction](Unit-0/C5-week-0)
+- [Unit 1 - Introduction to AI & Data Science](Unit-1/C5-week-1.md)
+- [Unit 2 - Introduction to Data Mining](Unit-2/C5-week-2.md)
+- [Unit 3 - Introduction to Modeling](Unit-3/C5-week-3.md)
 
 ## 🌟 About the Workshop Series
 Our workshop series aims to:
