@@ -10,6 +10,7 @@ This repository is dedicated to supporting learners and professionals in their j
 - [Unit 2 - Introduction to Data Mining](Unit-2/C5-week-2.md)
 - [Unit 3 - Introduction to Modeling](Unit-3/C5-week-3.md)
 - [Unit 4 - Regression](Unit-4/C5-week-4.md)
+- [Unit 5 - Clustering](Unit-5/C5-week-5.md)
 
 ## 🌟 About the Workshop Series
 Our workshop series aims to:
