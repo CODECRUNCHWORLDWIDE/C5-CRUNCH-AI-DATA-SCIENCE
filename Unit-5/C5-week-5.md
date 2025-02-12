@@ -5,7 +5,8 @@
 - **Unit:** 
     - Unit 5 - Clustering
 - **Link to content**
-    - NA
+    - [Clustering](Clustering.pdf)
+    - [Clustering Algorithms](clusteringAlgorithms.ipynb)
 ## Resources
-- NA
+- [clustering](https://scikit-learn.org/stable/modules/clustering.html)
 
