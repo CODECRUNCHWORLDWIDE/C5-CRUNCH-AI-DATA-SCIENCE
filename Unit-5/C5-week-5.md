@@ -1,7 +1,7 @@
-# week 4
+# week 5
 
 ## Topics: Introductions
-- **Week Dates:** January 10, 2025 - January 14, 2025
+- **Week Dates:** February 10, 2025 - February 14, 2025
 - **Unit:** 
     - Unit 5 - Clustering
 - **Link to content**
