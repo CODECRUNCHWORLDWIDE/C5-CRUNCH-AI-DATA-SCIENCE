@@ -1,7 +1,7 @@
 # week 4
 
 ## Topics: Introductions
-- **Week Dates:** January 27, 2025 - January 7, 2025
+- **Week Dates:** January 27, 2025 - January 31, 2025
 - **Unit:** 
     - Unit 4 - Regression
 - **Link to content**
