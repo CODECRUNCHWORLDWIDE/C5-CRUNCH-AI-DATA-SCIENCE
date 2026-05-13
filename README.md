@@ -1,49 +1,118 @@
-# C5-CRUNCH-AI-DATA-SCIENCE
+# C5 · Crunch AI / Data Science
 
-Welcome to the AI and Data Science Workshop Series repository! 🎓
+> A free, open-source **12-week data-science + classical-ML track** for engineers who already know Python. NumPy through PyTorch, with the experimentation discipline employers actually want. C1 graduate → mid-level ML / data scientist.
 
-This repository is dedicated to supporting learners and professionals in their journey through the exciting fields of Artificial Intelligence (AI) and Data Science. Whether you're a beginner taking your first steps in machine learning or an experienced data scientist exploring advanced AI topics, this workshop series is designed to provide you with valuable insights, hands-on experience, and practical tools.
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](LICENSE)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![Built in the open](https://img.shields.io/badge/built-in%20the%20open-7C3AED.svg)](https://github.com/CODE-CRUNCH-CLUB)
 
-## 📂 Table of Contents
-- [Unit 0 - Introduction](Unit-0/C5-week-0.md)
-- [Unit 1 - Introduction to AI & Data Science](Unit-1/C5-week-1.md)
-- [Unit 2 - Introduction to Data Mining](Unit-2/C5-week-2.md)
-- [Unit 3 - Introduction to Modeling](Unit-3/C5-week-3.md)
-- [Unit 4 - Regression](Unit-4/C5-week-4.md)
-- [Unit 5 - Clustering](Unit-5/C5-week-5.md)
-
-## 🌟 About the Workshop Series
-Our workshop series aims to:
-
-- **Educate**: Cover foundational concepts in AI and Data Science.
-- **Engage**: Provide interactive, hands-on sessions with real-world datasets and challenges.
-- **Empower**: Equip participants with skills to develop AI and data-driven solutions.
-
-## 🔧 Requirements
-To participate in the workshops, you'll will need:
-- **Python 3.8+** installed on your machine
-    - The Tech lead will be using google colab during sessions which uses: *Python 3.10.11*
-
-## 🚀 Getting Started
-1. Clone this repository
-    ```
-    git clone https://github.com/CODE-CRUNCH-CLUB/C5-CRUNCH-AI-DATA-SCIENCE.git
-
-    cd C5-CRUNCH-AI-DATA-SCIENCE  
-    ```
-2. Set up the environment
-    - for an environment similar to google colab (*must have Python 3.10.11 installed*):
-        ```
-        pip install -r Unit-0\colab_requirements.txt
-        ```
-    - for a modern environment:
-        ```
-        pip install -r requirements.txt
-        ```
-3. **Join the workshop:**
-    - follow along with the material
-
-Happy learning and building! 🚀
+C5 takes you from "I know Python" to "I can take a real dataset, do honest analysis, build a model, evaluate it without fooling myself, and ship it behind an API." It is not a survey course — every week ends with a deliverable that pushes to a portfolio repo.
 
 ---
 
+## Pathway summary
+
+- **Full-time:** 12 weeks · ~36 hrs/week · ~432 hours
+- **Working-engineer pace:** 6 months · ~18 hrs/week
+- **Evening pace:** 12 months · ~9 hrs/week
+
+See [`SYLLABUS.md`](SYLLABUS.md) for the full week-by-week breakdown across four phases.
+
+---
+
+## What you will be able to do at the end of 12 weeks
+
+- **Read and clean** any reasonable real-world dataset in pandas — including all the edge cases (mixed types, missing values, encoding errors, time zones).
+- **Build a complete ML pipeline** with scikit-learn from raw data to a trained model: split, vectorize, fit, evaluate, cross-validate, save.
+- **Choose the right model** for a tabular problem: when linear regression suffices, when you need trees, when neural nets pay off, when classical statistics is more honest.
+- **Train a small neural network** in PyTorch end-to-end: dataset, dataloader, `nn.Module`, optimizer, training loop, checkpointing, inference.
+- **Explain a model's predictions** with SHAP or permutation importance — and know what those numbers do and don't mean.
+- **Set up an experiment**: hold-out set, cross-validation, leakage-free preprocessing, fair baselines, statistical significance.
+- **Ship a model behind an API** (FastAPI) and call it from a small frontend.
+- **Read papers** at the level of mainstream ML conferences without getting lost.
+
+---
+
+## Who this is for
+
+- **C1 graduate** who wants the data-science specialization.
+- **Self-taught engineer** comfortable with Python and itching for data work.
+- **CS / stats / engineering student** preparing for an ML-adjacent first job.
+- **Working engineer** transitioning into a data team.
+
+Not for: pure beginners (do [C1](../C1-Code-Crunch-Convos/) first), researchers wanting publication-grade depth (this is engineering-grade, not academic), or people who specifically want LLMs/agents (those are in the upcoming Crunch Labs **C23 · Crunch Agents** track).
+
+---
+
+## Prerequisites
+
+- **C1 Weeks 1–14** completed, or equivalent.
+- Comfortable with: functions, classes, decorators, generators, list/dict comprehensions, exception handling, `pip` / `venv`.
+- Some exposure to algebra and calculus — derivatives, vectors, basic matrix math. We re-teach the bits we need, but a complete blank slate makes Week 7 (NN from scratch) tough.
+- A computer with ≥8 GB RAM. A GPU is nice for Week 8+ but not required — Google Colab's free tier handles every Week.
+
+---
+
+## What you ship
+
+By the end of the program, your `crunch-ai-portfolio-<yourhandle>` GitHub repo contains:
+
+1. **A vectorized image-processing notebook** (Week 1) — pure NumPy, no PIL.
+2. **An EDA report** on a real public dataset (Week 2).
+3. **A re-creation + critique** of three published charts (Week 3).
+4. **A house-price prediction** project with both linear and tree-based models (Weeks 4–5).
+5. **A clustering analysis** with justified k and 2D visualization (Week 6).
+6. **A 2-layer NN trained from scratch in pure NumPy** on MNIST ≥ 95% accuracy (Week 7).
+7. **A PyTorch version** of the same, with data augmentation, beating the NumPy version (Week 8).
+8. **A fine-tuned pre-trained CNN** on a real image task (Week 9).
+9. **An A/B test plan** for a real product question (Week 10).
+10. **A FastAPI-served model** with experiment tracking and Docker (Week 11).
+11. **A capstone project** end-to-end with a fairness/limitations section (Week 12).
+
+That repo is the artifact you hand recruiters.
+
+---
+
+## Tools we use
+
+| Tool | Role |
+|------|------|
+| **Python 3.11+** | Language |
+| **NumPy** | The N-dimensional array; vectorization |
+| **pandas** | DataFrames, IO, cleaning |
+| **matplotlib · seaborn · plotly** | Visualization |
+| **scikit-learn** | Classical ML |
+| **PyTorch** | Deep learning |
+| **Jupyter / VS Code notebooks** | Exploration |
+| **FastAPI** | Model serving |
+| **mlflow** | Experiment tracking |
+| **Docker** | Packaging |
+| **DuckDB / Polars** | Mentioned as faster pandas alternatives in stretch readings |
+
+Everything is **free** and **open-source**. No paid Kaggle Pro, no proprietary AutoML SaaS, no required GPU rental — Google Colab's free tier handles the deep-learning weeks.
+
+---
+
+## Migration from legacy units
+
+The existing `Unit-0` through `Unit-9` Jupyter notebooks remain available for now. Each is being rolled forward into the standardized weekly module layout used by C1, C16, C17, and C2. See the [SYLLABUS.md migration table](SYLLABUS.md#migration-from-the-legacy-units) for the mapping.
+
+Contributors: each new week's PR should follow the [Code Crunch contribution guide](../CONTRIBUTING.md) and match the depth of [C1 Week 1](../C1-Code-Crunch-Convos/curriculum/week-01-python-foundations/).
+
+---
+
+## Next track after C5
+
+- **[C17 · Crunch Pro Python Advanced](../C17-CRUNCH-PRO-PYTHON-ADVANCED/)** — for the runtime depth (async, performance, PyTorch internals).
+- **[C15 · Crunch DevOps](../C15-CRUNCH-DEVOPS/)** — deploy your models in production.
+- **C23 · Crunch Agents** (Tier 2 Labs) — for LLM / agentic systems beyond classical ML.
+
+---
+
+## License
+
+GPL-3.0. See [LICENSE](LICENSE).
+
+---
+
+*C5 is part of the Code Crunch open-source curriculum.* [Master catalog ↗](../MASTER-CURRICULUM.md) · [Brand family ↗](../../assets/brand/BRAND-FAMILY.md)
