@@ -1,0 +1,581 @@
+{
+  "repo": "C5-CRUNCH-AI-DATA-SCIENCE",
+  "files": [
+    {
+      "path": "CODE_OF_CONDUCT.md",
+      "title": "Contributor Covenant Code of Conduct"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "title": "Contributing to Crunch AI & Data Science"
+    },
+    {
+      "path": "README.md",
+      "title": "C5 \u00b7 Crunch AI / Data Science"
+    },
+    {
+      "path": "assets/branding/BRAND.md",
+      "title": "C5 \u00b7 Crunch AI / Data Science \u2014 Brand Guide"
+    },
+    {
+      "path": "curriculum/SYLLABUS.md",
+      "title": "C5 \u00b7 Crunch AI / Data Science \u2014 Full Syllabus"
+    },
+    {
+      "path": "curriculum/week-01-numpy-from-scratch/README.md",
+      "title": "Week 1 \u2014 NumPy from Scratch"
+    },
+    {
+      "path": "curriculum/week-01-numpy-from-scratch/challenges/README.md",
+      "title": "Week 1 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-01-numpy-from-scratch/challenges/challenge-01-image-filter-pure-numpy.md",
+      "title": "Challenge 1 \u2014 Image filter, pure NumPy"
+    },
+    {
+      "path": "curriculum/week-01-numpy-from-scratch/exercises/README.md",
+      "title": "Week 1 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-01-numpy-from-scratch/homework.md",
+      "title": "Week 1 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-01-numpy-from-scratch/lecture-notes/01-the-ndarray-and-why-it-exists.md",
+      "title": "Lecture 1 \u2014 The `ndarray` and Why It Exists"
+    },
+    {
+      "path": "curriculum/week-01-numpy-from-scratch/lecture-notes/02-vectorization-broadcasting-views.md",
+      "title": "Lecture 2 \u2014 Vectorization, Broadcasting, Views"
+    },
+    {
+      "path": "curriculum/week-01-numpy-from-scratch/mini-project/README.md",
+      "title": "Mini-Project \u2014 Vectorized Image Processing in Pure NumPy"
+    },
+    {
+      "path": "curriculum/week-01-numpy-from-scratch/quiz.md",
+      "title": "Week 1 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-01-numpy-from-scratch/resources.md",
+      "title": "Week 1 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-02-pandas-honestly/README.md",
+      "title": "Week 2 \u2014 pandas, Honestly"
+    },
+    {
+      "path": "curriculum/week-02-pandas-honestly/challenges/README.md",
+      "title": "Week 2 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-02-pandas-honestly/challenges/challenge-01-merge-three-tables.md",
+      "title": "Challenge 1 \u2014 Merge three tables"
+    },
+    {
+      "path": "curriculum/week-02-pandas-honestly/exercises/README.md",
+      "title": "Week 2 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-02-pandas-honestly/homework.md",
+      "title": "Week 2 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-02-pandas-honestly/lecture-notes/01-series-and-dataframes-mental-model.md",
+      "title": "Lecture 1 \u2014 Series, DataFrame, and the Mental Model that Saves You"
+    },
+    {
+      "path": "curriculum/week-02-pandas-honestly/lecture-notes/02-merge-groupby-aggregate.md",
+      "title": "Lecture 2 \u2014 Merge, Group-by, Aggregate"
+    },
+    {
+      "path": "curriculum/week-02-pandas-honestly/lecture-notes/03-the-apply-trap-and-when-to-vectorize.md",
+      "title": "Lecture 3 \u2014 The `apply` Trap and When to Vectorize"
+    },
+    {
+      "path": "curriculum/week-02-pandas-honestly/mini-project/README.md",
+      "title": "Mini-Project \u2014 A 2-Page EDA Report on a Messy Public Dataset"
+    },
+    {
+      "path": "curriculum/week-02-pandas-honestly/quiz.md",
+      "title": "Week 2 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-02-pandas-honestly/resources.md",
+      "title": "Week 2 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-03-visualization-that-doesnt-lie/README.md",
+      "title": "Week 3 \u2014 Visualization That Doesn't Lie"
+    },
+    {
+      "path": "curriculum/week-03-visualization-that-doesnt-lie/challenges/README.md",
+      "title": "Week 3 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-03-visualization-that-doesnt-lie/challenges/challenge-01-recreate-an-FT-chart.md",
+      "title": "Challenge 1 \u2014 Recreate an FT chart"
+    },
+    {
+      "path": "curriculum/week-03-visualization-that-doesnt-lie/exercises/README.md",
+      "title": "Week 3 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-03-visualization-that-doesnt-lie/homework.md",
+      "title": "Week 3 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-03-visualization-that-doesnt-lie/lecture-notes/01-matplotlib-fundamentals.md",
+      "title": "Lecture 1 \u2014 matplotlib Fundamentals: Figure, Axes, and the API That Ships"
+    },
+    {
+      "path": "curriculum/week-03-visualization-that-doesnt-lie/lecture-notes/02-when-to-use-seaborn-vs-plotly.md",
+      "title": "Lecture 2 \u2014 When to Use Seaborn vs Plotly (and When matplotlib Alone Is Enough)"
+    },
+    {
+      "path": "curriculum/week-03-visualization-that-doesnt-lie/lecture-notes/03-perceptual-encoding-and-not-lying.md",
+      "title": "Lecture 3 \u2014 Perceptual Encoding and Not Lying With Charts"
+    },
+    {
+      "path": "curriculum/week-03-visualization-that-doesnt-lie/mini-project/README.md",
+      "title": "Mini-Project \u2014 Recreate Three Published Charts, and Critique Each"
+    },
+    {
+      "path": "curriculum/week-03-visualization-that-doesnt-lie/quiz.md",
+      "title": "Week 3 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-03-visualization-that-doesnt-lie/resources.md",
+      "title": "Week 3 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-04-ml-workflow-and-linear-models/README.md",
+      "title": "Week 4 \u2014 The ML Workflow and Linear Models"
+    },
+    {
+      "path": "curriculum/week-04-ml-workflow-and-linear-models/challenges/README.md",
+      "title": "Week 4 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-04-ml-workflow-and-linear-models/challenges/challenge-01-beat-the-baseline-on-housing.md",
+      "title": "Challenge 1 \u2014 Beat the baseline on housing"
+    },
+    {
+      "path": "curriculum/week-04-ml-workflow-and-linear-models/exercises/README.md",
+      "title": "Week 4 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-04-ml-workflow-and-linear-models/homework.md",
+      "title": "Week 4 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-04-ml-workflow-and-linear-models/lecture-notes/01-the-ml-workflow.md",
+      "title": "Lecture 1 \u2014 The ML Workflow: Train, Validate, Test, Iterate"
+    },
+    {
+      "path": "curriculum/week-04-ml-workflow-and-linear-models/lecture-notes/02-linear-regression-properly.md",
+      "title": "Lecture 2 \u2014 Linear Regression, Properly"
+    },
+    {
+      "path": "curriculum/week-04-ml-workflow-and-linear-models/lecture-notes/03-logistic-regression-and-classification-metrics.md",
+      "title": "Lecture 3 \u2014 Logistic Regression and Classification Metrics"
+    },
+    {
+      "path": "curriculum/week-04-ml-workflow-and-linear-models/mini-project/README.md",
+      "title": "Mini-Project \u2014 Predict House Prices on the Ames Housing Dataset"
+    },
+    {
+      "path": "curriculum/week-04-ml-workflow-and-linear-models/quiz.md",
+      "title": "Week 4 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-04-ml-workflow-and-linear-models/resources.md",
+      "title": "Week 4 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-05-trees-forests-boosting/README.md",
+      "title": "Week 5 \u2014 Trees, Forests, and Gradient Boosting"
+    },
+    {
+      "path": "curriculum/week-05-trees-forests-boosting/challenges/README.md",
+      "title": "Week 5 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-05-trees-forests-boosting/challenges/challenge-01-feature-importance-vs-shap.md",
+      "title": "Challenge 1 \u2014 Feature Importance vs SHAP"
+    },
+    {
+      "path": "curriculum/week-05-trees-forests-boosting/exercises/README.md",
+      "title": "Week 5 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-05-trees-forests-boosting/homework.md",
+      "title": "Week 5 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-05-trees-forests-boosting/lecture-notes/01-decision-trees-from-scratch.md",
+      "title": "Lecture 1 \u2014 Decision Trees from Scratch"
+    },
+    {
+      "path": "curriculum/week-05-trees-forests-boosting/lecture-notes/02-random-forests-and-bagging.md",
+      "title": "Lecture 2 \u2014 Random Forests and Bagging"
+    },
+    {
+      "path": "curriculum/week-05-trees-forests-boosting/lecture-notes/03-gradient-boosting-xgboost-lightgbm.md",
+      "title": "Lecture 3 \u2014 Gradient Boosting: HistGBR, XGBoost, LightGBM"
+    },
+    {
+      "path": "curriculum/week-05-trees-forests-boosting/mini-project/README.md",
+      "title": "Mini-Project \u2014 Beat the Week 4 Linear Model on Ames Housing"
+    },
+    {
+      "path": "curriculum/week-05-trees-forests-boosting/quiz.md",
+      "title": "Week 5 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-05-trees-forests-boosting/resources.md",
+      "title": "Week 5 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-06-clustering-and-dimensionality-reduction/README.md",
+      "title": "Week 6 \u2014 Clustering, Dimensionality Reduction, and Unsupervised Methods"
+    },
+    {
+      "path": "curriculum/week-06-clustering-and-dimensionality-reduction/challenges/README.md",
+      "title": "Week 6 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-06-clustering-and-dimensionality-reduction/challenges/challenge-01-justify-the-k.md",
+      "title": "Challenge 1 \u2014 Justify the K"
+    },
+    {
+      "path": "curriculum/week-06-clustering-and-dimensionality-reduction/exercises/README.md",
+      "title": "Week 6 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-06-clustering-and-dimensionality-reduction/homework.md",
+      "title": "Week 6 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-06-clustering-and-dimensionality-reduction/lecture-notes/01-kmeans-hierarchical-dbscan-gmm.md",
+      "title": "Lecture 1 \u2014 K-means, Hierarchical, DBSCAN, and Gaussian Mixtures"
+    },
+    {
+      "path": "curriculum/week-06-clustering-and-dimensionality-reduction/lecture-notes/02-pca-tsne-umap.md",
+      "title": "Lecture 2 \u2014 PCA, t-SNE, and UMAP"
+    },
+    {
+      "path": "curriculum/week-06-clustering-and-dimensionality-reduction/lecture-notes/03-when-clustering-is-not-the-answer.md",
+      "title": "Lecture 3 \u2014 When Clustering Is Not the Answer"
+    },
+    {
+      "path": "curriculum/week-06-clustering-and-dimensionality-reduction/mini-project/README.md",
+      "title": "Mini-Project \u2014 Cluster Real Customer (or Product) Data"
+    },
+    {
+      "path": "curriculum/week-06-clustering-and-dimensionality-reduction/quiz.md",
+      "title": "Week 6 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-06-clustering-and-dimensionality-reduction/resources.md",
+      "title": "Week 6 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-07-neural-networks-from-scratch/README.md",
+      "title": "Week 7 \u2014 Neural Networks from Scratch"
+    },
+    {
+      "path": "curriculum/week-07-neural-networks-from-scratch/challenges/challenge-01-implement-dropout-and-batch-norm.md",
+      "title": "Challenge 1 \u2014 Implement Dropout and Batch Normalization"
+    },
+    {
+      "path": "curriculum/week-07-neural-networks-from-scratch/challenges/challenge-02-write-your-own-autograd.md",
+      "title": "Challenge 2 \u2014 Write Your Own Autograd"
+    },
+    {
+      "path": "curriculum/week-07-neural-networks-from-scratch/exercises/SOLUTIONS.md",
+      "title": "Week 7 \u2014 Exercise Solutions and Commentary"
+    },
+    {
+      "path": "curriculum/week-07-neural-networks-from-scratch/homework.md",
+      "title": "Week 7 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-07-neural-networks-from-scratch/lecture-notes/01-forward-pass-and-loss.md",
+      "title": "Lecture 1 \u2014 The Forward Pass and the Loss"
+    },
+    {
+      "path": "curriculum/week-07-neural-networks-from-scratch/lecture-notes/02-backprop-from-chain-rule.md",
+      "title": "Lecture 2 \u2014 Backpropagation from the Chain Rule"
+    },
+    {
+      "path": "curriculum/week-07-neural-networks-from-scratch/lecture-notes/03-training-loop-and-mnist.md",
+      "title": "Lecture 3 \u2014 The Training Loop and MNIST"
+    },
+    {
+      "path": "curriculum/week-07-neural-networks-from-scratch/mini-project/README.md",
+      "title": "Mini-Project \u2014 A NumPy MLP Classifier on a Non-MNIST Tabular Dataset"
+    },
+    {
+      "path": "curriculum/week-07-neural-networks-from-scratch/quiz.md",
+      "title": "Week 7 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-07-neural-networks-from-scratch/resources.md",
+      "title": "Week 7 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-08-pytorch-fundamentals/README.md",
+      "title": "Week 8 \u2014 PyTorch Fundamentals"
+    },
+    {
+      "path": "curriculum/week-08-pytorch-fundamentals/challenges/challenge-01-cifar10-mlp-vs-cnn-baseline.md",
+      "title": "Challenge 1 \u2014 CIFAR-10: MLP vs. Tiny CNN Baseline"
+    },
+    {
+      "path": "curriculum/week-08-pytorch-fundamentals/challenges/challenge-02-write-your-own-dataset.md",
+      "title": "Challenge 2 \u2014 Write Your Own `Dataset`"
+    },
+    {
+      "path": "curriculum/week-08-pytorch-fundamentals/exercises/SOLUTIONS.md",
+      "title": "Week 8 Exercise Solutions"
+    },
+    {
+      "path": "curriculum/week-08-pytorch-fundamentals/homework.md",
+      "title": "Week 8 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-08-pytorch-fundamentals/lecture-notes/01-tensors-and-autograd.md",
+      "title": "Lecture 1 \u2014 Tensors and Autograd"
+    },
+    {
+      "path": "curriculum/week-08-pytorch-fundamentals/lecture-notes/02-modules-optimizers-and-the-training-loop.md",
+      "title": "Lecture 2 \u2014 `nn.Module`, Optimizers, and the Training Loop"
+    },
+    {
+      "path": "curriculum/week-08-pytorch-fundamentals/lecture-notes/03-datasets-dataloaders-devices-and-checkpoints.md",
+      "title": "Lecture 3 \u2014 Datasets, DataLoaders, Devices, and Checkpoints"
+    },
+    {
+      "path": "curriculum/week-08-pytorch-fundamentals/mini-project/README.md",
+      "title": "Mini-Project \u2014 A FashionMNIST (or CIFAR-10) Image Classifier in PyTorch"
+    },
+    {
+      "path": "curriculum/week-08-pytorch-fundamentals/mini-project/rubric.md",
+      "title": "Week 8 Mini-Project \u2014 Grading Rubric"
+    },
+    {
+      "path": "curriculum/week-08-pytorch-fundamentals/quiz.md",
+      "title": "Week 8 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-08-pytorch-fundamentals/resources.md",
+      "title": "Week 8 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-09-cnns-and-transfer-learning/README.md",
+      "title": "Week 9 \u2014 Convolutional Neural Networks and Transfer Learning"
+    },
+    {
+      "path": "curriculum/week-09-cnns-and-transfer-learning/challenges/challenge-01-receptive-field.md",
+      "title": "Challenge 1 \u2014 Compute the Receptive Field"
+    },
+    {
+      "path": "curriculum/week-09-cnns-and-transfer-learning/challenges/challenge-02-feature-extraction-vs-finetune.md",
+      "title": "Challenge 2 \u2014 Feature Extraction vs. Full Fine-Tune"
+    },
+    {
+      "path": "curriculum/week-09-cnns-and-transfer-learning/exercises/SOLUTIONS.md",
+      "title": "Week 9 \u2014 Exercise Solutions"
+    },
+    {
+      "path": "curriculum/week-09-cnns-and-transfer-learning/homework.md",
+      "title": "Week 9 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-09-cnns-and-transfer-learning/lecture-notes/01-convolutions-and-pooling.md",
+      "title": "Lecture 1 \u2014 Convolutions and Pooling"
+    },
+    {
+      "path": "curriculum/week-09-cnns-and-transfer-learning/lecture-notes/02-cnn-architectures-lenet-vgg-resnet.md",
+      "title": "Lecture 2 \u2014 CNN Architectures: LeNet, AlexNet, VGG, and ResNet"
+    },
+    {
+      "path": "curriculum/week-09-cnns-and-transfer-learning/lecture-notes/03-transfer-learning-with-torchvision.md",
+      "title": "Lecture 3 \u2014 Transfer Learning with torchvision"
+    },
+    {
+      "path": "curriculum/week-09-cnns-and-transfer-learning/mini-project/README.md",
+      "title": "Mini-Project \u2014 A Transfer-Learning Image Classifier in PyTorch"
+    },
+    {
+      "path": "curriculum/week-09-cnns-and-transfer-learning/mini-project/rubric.md",
+      "title": "Week 9 Mini-Project \u2014 Grading Rubric"
+    },
+    {
+      "path": "curriculum/week-09-cnns-and-transfer-learning/quiz.md",
+      "title": "Week 9 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-09-cnns-and-transfer-learning/resources.md",
+      "title": "Week 9 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-10-sequence-models-rnn-lstm-gru/README.md",
+      "title": "Week 10 \u2014 Sequence Models: RNN, LSTM, GRU"
+    },
+    {
+      "path": "curriculum/week-10-sequence-models-rnn-lstm-gru/challenges/challenge-01-gradient-norms-by-depth.md",
+      "title": "Challenge 1 \u2014 Measure the Vanishing Gradient on Your Own Machine"
+    },
+    {
+      "path": "curriculum/week-10-sequence-models-rnn-lstm-gru/challenges/challenge-02-lstm-vs-gru-bake-off.md",
+      "title": "Challenge 2 \u2014 LSTM vs. GRU Head-to-Head on the Char-LM"
+    },
+    {
+      "path": "curriculum/week-10-sequence-models-rnn-lstm-gru/exercises/SOLUTIONS.md",
+      "title": "Week 10 Exercise Solutions"
+    },
+    {
+      "path": "curriculum/week-10-sequence-models-rnn-lstm-gru/homework.md",
+      "title": "Week 10 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-10-sequence-models-rnn-lstm-gru/lecture-notes/01-rnn-and-vanishing-gradients.md",
+      "title": "Lecture 1 \u2014 The Vanilla RNN and the Vanishing-Gradient Problem"
+    },
+    {
+      "path": "curriculum/week-10-sequence-models-rnn-lstm-gru/lecture-notes/02-lstm-and-gru.md",
+      "title": "Lecture 2 \u2014 LSTM and GRU: Gated Recurrence That Actually Works"
+    },
+    {
+      "path": "curriculum/week-10-sequence-models-rnn-lstm-gru/lecture-notes/03-sequence-batching-and-char-lm.md",
+      "title": "Lecture 3 \u2014 Sequence Batching, Teacher Forcing, Truncated BPTT, and a Char-LM End to End"
+    },
+    {
+      "path": "curriculum/week-10-sequence-models-rnn-lstm-gru/mini-project/README.md",
+      "title": "Mini-Project \u2014 A Char-Level Language Model in PyTorch"
+    },
+    {
+      "path": "curriculum/week-10-sequence-models-rnn-lstm-gru/mini-project/rubric.md",
+      "title": "Week 10 Mini-Project \u2014 Grading Rubric"
+    },
+    {
+      "path": "curriculum/week-10-sequence-models-rnn-lstm-gru/quiz.md",
+      "title": "Week 10 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-10-sequence-models-rnn-lstm-gru/resources.md",
+      "title": "Week 10 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-11-attention-transformers-and-mini-gpt/README.md",
+      "title": "Week 11 \u2014 Attention, Transformers, and a Mini-GPT"
+    },
+    {
+      "path": "curriculum/week-11-attention-transformers-and-mini-gpt/challenges/challenge-01-attention-head-visualization.md",
+      "title": "Challenge 1 \u2014 Visualize What an Attention Head is Doing"
+    },
+    {
+      "path": "curriculum/week-11-attention-transformers-and-mini-gpt/challenges/challenge-02-lstm-vs-mini-gpt-bake-off.md",
+      "title": "Challenge 2 \u2014 Matched-Parameter Bake-Off: LSTM vs. Mini-GPT"
+    },
+    {
+      "path": "curriculum/week-11-attention-transformers-and-mini-gpt/exercises/SOLUTIONS.md",
+      "title": "Week 11 \u2014 Exercise Solutions"
+    },
+    {
+      "path": "curriculum/week-11-attention-transformers-and-mini-gpt/homework.md",
+      "title": "Week 11 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-11-attention-transformers-and-mini-gpt/lecture-notes/01-scaled-dot-product-and-multihead-attention.md",
+      "title": "Lecture 1 \u2014 Scaled Dot-Product Attention and Multi-Head Attention"
+    },
+    {
+      "path": "curriculum/week-11-attention-transformers-and-mini-gpt/lecture-notes/02-positional-encoding-and-the-transformer-block.md",
+      "title": "Lecture 2 \u2014 Positional Encoding, the Transformer Block, and the Residual Stream"
+    },
+    {
+      "path": "curriculum/week-11-attention-transformers-and-mini-gpt/lecture-notes/03-decoder-only-and-mini-gpt.md",
+      "title": "Lecture 3 \u2014 The Decoder-Only Stack and the Mini-GPT"
+    },
+    {
+      "path": "curriculum/week-11-attention-transformers-and-mini-gpt/mini-project/README.md",
+      "title": "Week 11 Mini-Project \u2014 A nanoGPT-Style Char-Level Transformer"
+    },
+    {
+      "path": "curriculum/week-11-attention-transformers-and-mini-gpt/mini-project/rubric.md",
+      "title": "Week 11 Mini-Project \u2014 Grading Rubric"
+    },
+    {
+      "path": "curriculum/week-11-attention-transformers-and-mini-gpt/quiz.md",
+      "title": "Week 11 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-11-attention-transformers-and-mini-gpt/resources.md",
+      "title": "Week 11 \u2014 Resources"
+    },
+    {
+      "path": "curriculum/week-12-capstone-end-to-end-ml-with-deploy/README.md",
+      "title": "Week 12 \u2014 Capstone: End-to-End ML with Deployment"
+    },
+    {
+      "path": "curriculum/week-12-capstone-end-to-end-ml-with-deploy/lecture-notes/01-problem-framing-data-cards-and-eda.md",
+      "title": "Lecture 1 \u2014 Problem framing, dataset cards, and exploratory data analysis"
+    },
+    {
+      "path": "curriculum/week-12-capstone-end-to-end-ml-with-deploy/lecture-notes/02-evaluation-fairness-and-model-cards.md",
+      "title": "Lecture 2 \u2014 Evaluation, fairness audits, and model cards"
+    },
+    {
+      "path": "curriculum/week-12-capstone-end-to-end-ml-with-deploy/lecture-notes/03-packaging-deploying-and-monitoring.md",
+      "title": "Lecture 3 \u2014 Packaging, deploying, and monitoring"
+    },
+    {
+      "path": "curriculum/week-12-capstone-end-to-end-ml-with-deploy/resources.md",
+      "title": "Week 12 \u2014 Resources"
+    },
+    {
+      "path": "past-sessions/Unit-0/C5-week-0.md",
+      "title": "Week 0"
+    },
+    {
+      "path": "past-sessions/Unit-1/C5-week-1.md",
+      "title": "Week 1"
+    },
+    {
+      "path": "past-sessions/Unit-2/C5-week-2.md",
+      "title": "Week 2"
+    },
+    {
+      "path": "past-sessions/Unit-3/C5-week-3.md",
+      "title": "week 3"
+    },
+    {
+      "path": "past-sessions/Unit-4/C5-week-4.md",
+      "title": "week 4"
+    },
+    {
+      "path": "past-sessions/Unit-5/C5-week-5.md",
+      "title": "week 5"
+    },
+    {
+      "path": "past-sessions/Unit-6/C5-week-6.md",
+      "title": "week 6"
+    },
+    {
+      "path": "past-sessions/Unit-7/C5-week-7.md",
+      "title": "week 7"
+    },
+    {
+      "path": "past-sessions/Unit-8/C5-week-8.md",
+      "title": "week 8"
+    },
+    {
+      "path": "past-sessions/Unit-9/C5-week-9.md",
+      "title": "week 8"
+    }
+  ]
+}
