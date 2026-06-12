@@ -4,7 +4,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](LICENSE)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![Built in the open](https://img.shields.io/badge/built-in%20the%20open-7C3AED.svg)](https://github.com/CODE-CRUNCH-CLUB)
+[![Built in the open](https://img.shields.io/badge/built-in%20the%20open-7C3AED.svg)](https://github.com/CODECRUNCHWORLDWIDE)
 
 C5 takes you from "I know Python" to "I can take a real dataset, do honest analysis, build a model, evaluate it without fooling myself, and ship it behind an API." It is not a survey course — every week ends with a deliverable that pushes to a portfolio repo.
 

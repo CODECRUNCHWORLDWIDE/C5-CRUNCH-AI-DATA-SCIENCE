@@ -6,3 +6,11 @@
 .AppleDouble
 .Spotlight-V100
 .Trashes
+
+# binary installers — never commit; use resources/setup-guides instead
+*.pkg
+*.exe
+*.dmg
+*.msi
+*.tgz
+*.tar.gz

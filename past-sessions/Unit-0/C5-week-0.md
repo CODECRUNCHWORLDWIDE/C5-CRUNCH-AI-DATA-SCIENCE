@@ -28,7 +28,7 @@
 ## Environment setup
 1. clone repository
     ```
-    git clone https://github.com/CODE-CRUNCH-CLUB/C5-CRUNCH-AI-DATA-SCIENCE.git
+    git clone https://github.com/CODECRUNCHWORLDWIDE/C5-CRUNCH-AI-DATA-SCIENCE.git
 
     cd C5-CRUNCH-AI-DATA-SCIENCE  
     ```
