@@ -154,7 +154,7 @@ Walk through every line; nothing here is decorative.
 
 - `figsize=(7, 4)` — landscape, fits a report page.
 - `layout="constrained"` — replaces the old `tight_layout` hack. Matplotlib 3.6+ figures out the margins.
-- `color="#7C3AED"` — brand violet (see [BRAND.md](../../../branding/BRAND.md)). Default matplotlib blue is fine but identifying.
+- `color="#7C3AED"` — brand violet (see [BRAND.md](../../../assets/branding/BRAND.md)). Default matplotlib blue is fine but identifying.
 - `linewidth=2` — the default 1.5 is too thin for a deck slide.
 - `label="sin(x)"` — required for the legend to find this line.
 - `set_xlabel` / `set_ylabel` — *always*. A chart without axis labels is a chart you should not ship.

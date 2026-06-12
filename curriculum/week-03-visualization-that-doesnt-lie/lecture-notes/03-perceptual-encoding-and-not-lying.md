@@ -192,7 +192,7 @@ Avoid: `rainbow`, `jet`, `Spectral`, and any custom red-green diverging palette.
 
 ### Rule 3: pick a brand color, use it sparingly
 
-For our work, **Plot Violet `#7C3AED`** is the brand color (see [BRAND.md](../../../branding/BRAND.md)). Use it for the **focal series** — the one the reader should look at first. Use gray (`#9CA3AF`) for context series. Other categories get other CB-safe hues, but the focal series is always violet.
+For our work, **Plot Violet `#7C3AED`** is the brand color (see [BRAND.md](../../../assets/branding/BRAND.md)). Use it for the **focal series** — the one the reader should look at first. Use gray (`#9CA3AF`) for context series. Other categories get other CB-safe hues, but the focal series is always violet.
 
 ```python
 # focal series in brand violet, context in gray
